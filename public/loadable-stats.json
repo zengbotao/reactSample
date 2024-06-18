@@ -1,5 +1,5 @@
 {
-  "hash": "619414404518328f9fd9",
+  "hash": "338c069e172ce912c608",
   "publicPath": "/assets/",
   "outputPath": "D:\\browerDownload\\es6-react-template\\public\\assets",
   "assetsByChunkName": {
@@ -12,7 +12,7 @@
     {
       "type": "asset",
       "name": "main.js",
-      "size": 4718657,
+      "size": 4718675,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
